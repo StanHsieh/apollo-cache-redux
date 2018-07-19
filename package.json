@@ -51,7 +51,7 @@
     "uglifyjs": "2.4.11"
   },
   "peerDependencies": {
-    "redux": "3.x"
+    "redux": "3.x || 4.x"
   },
   "jest": {
     "testEnvironment": "node",
